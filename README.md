@@ -1,2 +1,5 @@
-# nodejs-wstep
-Pierwsze kroki w node.js
+nodejs-wstep
+==============
+
+Przykładowe skrypty w node.js
+
